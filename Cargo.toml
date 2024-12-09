@@ -1,0 +1,11 @@
+[package]
+name = "kasiopea2024"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+graph = "0.3.1"
+num-integer = "0.1.46"
+indexmap = "2.6.0"
+petgraph = "0.6.5"
+pathfinding = "4.11.0"
